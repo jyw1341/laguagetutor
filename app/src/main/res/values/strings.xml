@@ -1,0 +1,238 @@
+<resources>
+
+    <!--bootPay-->
+    <string name="bootPay">61b9c3cbe38c300022d2cce2</string>
+
+    <!--변수-->
+    <string name="mobile_number">mobile_number</string>
+    <string name="other_mobile_number">other_mobile_number</string>
+    <string name="user_type">user_type</string>
+    <string name="condition">condition</string>
+    <string name="success">success</string>
+    <string name="var_username">user_name</string>
+    <string name="var_error">error</string>
+    <string name="var_chat_message">message</string>
+    <string name="var_message_array">message_array</string>
+    <string name="var_delete">delete</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="var_room_type">room_type</string>
+    <string name="var_private">private</string>
+    <string name="var_open">open</string>
+    <string name="var_exist">exist</string>
+    <string name="var_service_command">service_command</string>
+    <string name="var_create_chat_room">create_chat_room</string>
+    <string name="var_send_message">send_message</string>
+    <string name="var_date">date</string>
+    <string name="var_server">server</string>
+    <string name="var_client">client</string>
+    <string name="var_type">type</string>
+    <string name="var_task">task</string>
+    <string name="var_readers">readers</string>
+    <string name="var_room_members">room_members</string>
+    <string name="var_get_room_data">get_room_data</string>
+
+    <!--chat_room 테이블 컬럼명-->
+    <string name="var_room_name">room_name</string>
+    <string name="var_chat_room_id">room_id</string>
+    <string name="var_last_message">last_message</string>
+    <string name="var_last_message_date">last_message_date</string>
+    <string name="var_total_message">total_message</string>
+    <string name="var_checked_message">checked_message</string>
+
+    <string name="var_sender_name">sender_name</string>
+    <!--보편적으로 사용되는 string-->
+    <string name="var_create">create</string>
+    <string name="var_update">update</string>
+    <string name="var_view_type">view_type</string>
+    <!--chatService-->
+    <string name="var_chat_room_list">chat_room_list</string> <!--chatActivity 에 채팅 룸 리스트 넘겨줄때 사용 -->
+    <string name="var_activity_command">activity_command</string> <!--chatActivity 에 조건문 커맨드 -->
+    <string name="var_chat_room_data">chat_room_data</string>
+    <string name="var_chat_data">chat_data</string>
+    <string name="var_chat_message_list">chat_message_list</string>
+    <string name="var_get_message_data">get_message_data</string>
+    <string name="var_check_message">check_message</string>
+
+    <string name="app_name">laguagetutor</string>
+    <string name="login">로그인</string>
+
+    <string name="password">비밀번호</string>
+
+    <string name="reset_password">비밀번호 재설정</string>
+
+    <string name="login_kakao">카카오 로그인</string>
+    <string name="login_google">구글 로그인</string>
+    <string name="login_facebook">페이스북 로그인</string>
+
+    <string name="example">example</string>
+    <string name="confirm">확인</string>
+    <string name="sms_verification">SMS 인증</string>
+
+
+    <string name="home">홈</string>
+    <string name="match_tutor">강사매칭</string>
+    <string name="chat">채팅</string>
+    <string name="my_page">마이페이지</string>
+    <string name="match_english">영어강사</string>
+    <string name="match_japanese">일본어강사</string>
+    <string name="match_chinese">중국어강사</string>
+    <string name="matching">빠른 강사매칭</string>
+    <string name="recommend_english">추천 영어강사</string>
+    <string name="recommend_japanese">추천 일본어강사</string>
+    <string name="recommend_chinese">추천 중국어강사</string>
+    <string name="more_tutor">강사 더보기</string>
+    <string name="tutor_profile">강사 프로필</string>
+    <string name="matching_number">수업횟수</string>
+    <string name="price">수강료</string>
+    <string name="grade">강사 평점</string>
+    <string name="caution">주4회 1시간 기준</string>
+    <string name="introduction">강사 소개</string>
+    <string name="education">강사 이력</string>
+    <string name="class_introduction">수업 소개</string>
+    <string name="class_time">수업가능 시간</string>
+    <string name="tutor_picture">강사 사진</string>
+    <string name="class_review">강의 후기</string>
+    <string name="more_review">후기 더보기</string>
+    <string name="send_message">연락하기</string>
+    <string name="basic">초급</string>
+    <string name="intermediate">중급</string>
+    <string name="advanced">고급</string>
+    <string name="ask_ability">자신의 외국어 실력을 선택해주세요</string>
+    <string name="ask_goal">외국어 공부 목적을 선택해주세요</string>
+    <string name="normal_conversation">일반 회화</string>
+    <string name="business_conversation">비즈니스 회화</string>
+    <string name="prepare_certificate">자격증 대비</string>
+    <string name="ask_startDate">수업을 시작하고싶은 날짜를 선택해주세요</string>
+    <string name="fast_match">빠른 매칭받기</string>
+    <string name="server_client_id">919476064164-2rpravjh83ev7gjategrt80943jb7n5o.apps.googleusercontent.com</string>
+    <string name="user_age">학습자 나이</string>
+    <string name="login_error">아이디 또는 비밀번호가 잘못 입력 되었습니다.</string>
+
+    <string name="register_success">회원가입이 완료되었습니다</string>
+    <string name="register_failed">회원가입에 실패했습니다</string>
+
+    <!--common-->
+    <string name="next">다음</string>
+    <string name="phone_number">휴대전화번호</string>
+    <string name="userId">아이디</string>
+    <string name="find_password">비밀번호 찾기</string>
+    <string name="register">회원가입</string>
+    <string name="confirm_password">비밀번호 재확인</string>
+    <string name="nickname">닉네임</string>
+    <string name="possible">가능</string>
+    <string name="impossible">불가능</string>
+    <string name="search">검색</string>
+    <!--InsertIdActivity-->
+    <string name="insert_id_description">비밀번호를 찾고자 하는 아이디를 입력해 주세요.</string>
+    <string name="insert_id_hint">아이디를 입력하세요</string>
+    <string name="insert_id_error">입력하신 아이디를 찾을 수 없습니다.</string>
+
+    <!--SelectFindToolActivity-->
+    <string name="select_find_tool_description">비밀번호를 찾을 방법을 선택해 주세요.</string>
+    <string name="select_find_tool_mobile">회원정보에 등록한 휴대전화로 인증</string>
+    <string name="select_find_tool_email">본인확인 이메일로 인증</string>
+    <string name="select_find_tool_mobile_description">회원정보에 등록된 휴대전화 번호</string>
+    <string name="select_find_tool_email_description">회원정보에 등록된 이메일 주소</string>
+    <string name="select_find_tool_email_non_exist">등록된 이메일이 없습니다.</string>
+
+    <!--SmsVerificationActivity-->
+    <string name="sms_verification_description">회원정보에 등록한 휴대전화 번호와 입력한 휴대전화 번호가 같아야, 인증번호를 받을 수 있습니다.</string>
+    <string name="send_verification">인증번호 받기</string>
+    <string name="verification_number">인증번호 숫자 입력</string>
+    <string name="sms_verification_send_done">인증번호를 발송했습니다. 인증번호가 오지 않으면 입력하신 정보가 회원정보와 일치하는지 확인해 주세요.</string>
+    <string name="sms_verification_mobile_number_error">휴대전화번호 형식에 맞게 입력해 주세요.</string>
+    <string name="sms_verification_otp_number_error">인증번호를 정확하게 입력해 주세요.</string>
+    <string name="sms_verification_exist_error">이미 회원가입된 휴대전화번호입니다.</string>
+
+    <!--ResetPasswordActivity-->
+    <string name="reset_password_title">비밀번호 재설정</string>
+    <string name="reset_password_description1">비밀번호를 변경해 주세요.</string>
+    <string name="reset_password_description2">다른 아이디나 사이트에서 사용한 적 없는 안전한 비밀번호로 변경해 주세요.</string>
+    <string name="reset_password_userId">아이디 : </string>
+    <string name="reset_password_password_hint">새 비밀번호</string>
+    <string name="reset_password_password_confirm_hint">새 비밀번호 확인</string>
+    <string name="reset_password_password_mismatch">비밀번호가 일치하지않습니다. 다시 확인해주세요.</string>
+    <string name="reset_password_password_short">8자리 이상의 비밀번호를 설정해주세요.</string>
+
+    <!--IdSearchResultActivity-->
+    <string name="id_search_result_title">아이디찾기</string>
+    <string name="id_search_result_description">고객님의 정보와 일치하는 아이디입니다.</string>
+    <string name="id_search_result_login">로그인하기</string>
+    <string name="id_search_result_date">가입일 : </string>
+    <string name="id_search_result_userId">아이디 : </string>
+    <string name="id_search_result_non_exist">가입된 아이디가 없습니다.</string>
+
+    <!--RegisterTypeActivity-->
+    <string name="register_type_description">회원 유형을 선택해주세요.</string>
+    <string name="register_type_student">학생으로 가입</string>
+    <string name="register_type_teacher">선생님으로 가입</string>
+
+    <!--RegisterActivity-->
+    <string name="register_student_age">학습자의 연령/학년을 선택해주세요.</string>
+    <string name="register_address">주소지</string>
+    <string name="register_sex">성별</string>
+    <string name="register_man">남자</string>
+    <string name="register_woman">여자</string>
+    <string name="register_terms_title">약관 동의</string>
+    <string name="register_terms">약관 보기</string>
+    <string name="register_agree_terms">앱 이용약관 동의(필수)</string>
+    <string name="register_info_terms">개인정보 수집 및 이용 동의(필수)</string>
+    <string name="register_terms_error">약관동의는 필수사항입니다.</string>
+    <string name="register_agree_all">모두 동의</string>
+    <string name="register_confirm">가입하기</string>
+    <string name="register_id_error">5~20자의 영문 소문자, 숫자만 사용 가능합니다.</string>
+    <string name="register_nickname_error">닉네임은 2~12자까지 입력할 수 있습니다.</string>
+    <string name="used_id">이미 사용중인 아이디입니다</string>
+    <string name="register_sex_description">학습자의 성별을 선택해주세요.</string>
+    <string name="register_address_description">거주지를 선택해주세요.</string>
+    <string name="register_sex_error">성별을 선택해야합니다.</string>
+    <string name="register_age_error">연령/학년을 선택해야합니다.</string>
+    <string name="register_address_error">거주지를 선택해야합니다.</string>
+
+    <!--SettingActivity-->
+    <string name="setting_title">설정</string>
+    <string name="setting_logout">로그아웃</string>
+    <string name="setting_withdrawal">탈퇴하기</string>
+
+    <!--TeacherRegisterActivity-->
+    <string name="teacher_register_education">학력</string>
+    <string name="teacher_register_campus">캠퍼스</string>
+    <string name="teacher_register_major">전공</string>
+    <string name="teacher_register_headline">한줄 소개</string>
+    <string name="teacher_register_bio">자기 소개</string>
+    <string name="teacher_register_lesson">수업 방식</string>
+    <string name="teacher_register_location">오프라인 수업가능 지역</string>
+    <string name="teacher_register_offline">오프라인 수업가능 여부</string>
+    <string name="teacher_register_online">온라인 수업가능 여부</string>
+    <string name="teacher_register_hourly_rate_off">시간당 비용(오프라인 수업)</string>
+    <string name="teacher_register_hourly_rate_on">시간당 비용(온라인 수업)</string>
+    <string name="teacher_register_gender">성별</string>
+
+    <!--TeacherRegisterLocationActivity-->
+    <string name="teacher_register_location_all">전지역</string>
+    <string name="teacher_register_location_chose">지역 선택</string>
+    <!--Subject-->
+    <string name="math">수학</string>
+    <string name="english">영어</string>
+    <string name="korean">국어</string>
+    <string name="science">과학</string>
+
+    <!--MainActivity-->
+    <string name="main_find">찾고싶은 과목을 입력하세요</string>
+    <string name="online">온라인 수업</string>
+    <string name="offline">오프라인 수업</string>
+    <string name="find_message">명의 선생님을 찾았습니다</string>
+
+    <!--RegisterWaiting-->
+    <string name="register_waiting_subject">원하는 과외 과목을 선택하세요.</string>
+    <string name="register_waiting_type">원하는 과외 방식을 선택하세요.</string>
+    <string name="register_waiting_time">과외를 받을 수 있는 시간을 작성해주세요.</string>
+    <string name="register_waiting_condition">원하는 선생님 조건을 작성해주세요.</string>
+    <string name="register_waiting_description">현재 본인의 학습상황을 작성해주세요.</string>
+    <string name="register_waiting_teacher">어떤 과외 선생님을 찾고 있는지 작성해주세요.</string>
+    <string name="register_waiting_all">상관없음</string>
+    <string name="register_waiting_online">대면</string>
+    <string name="register_waiting_offline">비대면</string>
+</resources>

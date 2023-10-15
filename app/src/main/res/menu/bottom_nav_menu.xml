@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_search"
+        android:title="과외 찾기"
+        android:icon="@drawable/ic_search_black_24dp"
+        />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:title="관심 목록"
+        android:icon="@drawable/ic_star_rate_black_24dp"
+        />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:title="채팅"
+        android:icon="@drawable/ic_chat_bubble_black_24dp"
+        />
+
+    <item
+        android:id="@+id/navigation_lesson"
+        android:title="클래스"
+        android:icon="@drawable/ic_article_black_24dp"
+        />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:title="@string/my_page"
+        android:icon="@drawable/ic_settings_black_24dp"
+        />
+
+</menu>
